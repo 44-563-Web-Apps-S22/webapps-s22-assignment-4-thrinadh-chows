@@ -1,0 +1,31 @@
+.speech{
+    font:300;
+    size: 6px;
+    font-family:Arial, Helvetica, sans-serif ;
+    color:black;
+}
+.direction{
+    font:bolder;
+    font-family: 'Times New Roman', Times, serif;
+    size: 0cm;
+    background-color:blueviolet;
+    color: black;
+
+}
+.direction:hover{
+    background-color:aqua;
+    color:blue;
+}
+.name{
+    font: 300px;;
+    size: 6px;
+    color:black;
+}
+.name:hover{
+    color:hsl(180, 100%, 97%);
+    text-shadow: 10px orangered;
+    text-shadow:3px 4px 5px hsl(180, 100%, 97%);
+    color:antiquewhite;
+
+        
+}
