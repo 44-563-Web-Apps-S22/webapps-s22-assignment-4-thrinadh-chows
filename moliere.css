@@ -89,7 +89,7 @@ ul.navbar-horizontal a:hover {
     float:left;
     padding: 15px;
     color:rgb(98, 13, 235);
-    background-color: rgb(172, 138, 162);
+    background-color: rgb(211, 26, 155);
     align-content: center;
     left: 15%;
     position: relative;
@@ -102,5 +102,5 @@ ul.navbar-horizontal a:hover {
 }
 .item {
     color:rgb(221, 16, 16);
-    background-color:gainsboro;
+    background-color:rgb(83, 19, 204);
 }
