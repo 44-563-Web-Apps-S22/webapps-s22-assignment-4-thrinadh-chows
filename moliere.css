@@ -61,3 +61,46 @@ td{
     padding: 5px;
     background-color:aquamarine;
 }
+ul.navbar-horizontal {
+    list-style-type:none;
+    margin: 20px;
+}
+ul.navbar-horizontal li {
+    float: centre; 
+    background-color:rgb(220, 245, 255);
+}
+ul.navbar-horizontal a {
+    text-align: center;
+    color:aquamarine;
+    display:block;
+    padding:15px;
+    margin: 15px;
+}
+ul.navbar-horizontal a:hover {  
+    background-color:azure;
+    color:white;
+}
+.navigation{
+    width: 200%;
+    overflow: auto;
+}
+
+.navigation a {
+    float:left;
+    padding: 15px;
+    color:rgb(98, 13, 235);
+    background-color: rgb(172, 138, 162);
+    align-content: center;
+    left: 15%;
+    position: relative;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.navigation:hover {
+    background-color:brown;
+}
+.item {
+    color:rgb(221, 16, 16);
+    background-color:gainsboro;
+}
