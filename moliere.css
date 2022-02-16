@@ -19,7 +19,7 @@
 .name{
     font: 300px;;
     size: 6px;
-    color:black;
+    color:blueviolet
 }
 .name:hover{
     color:hsl(180, 100, 97);
@@ -32,12 +32,12 @@
 
 }
 .DancingMaster{
-    color:hsl(37, 98, 89);
+    color:palevioletred;
 }
 .OnsieurJourdain{
-    color:hsl(226, 225, 230);
+    color:aqua
 
 }
 .MusicMaster{
-    color:hsl(21, 112, 83);
+    color:orange
 }
