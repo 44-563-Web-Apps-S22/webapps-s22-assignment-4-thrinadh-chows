@@ -34,10 +34,30 @@
 .DancingMaster{
     color:palevioletred;
 }
+
 .OnsieurJourdain{
-    color:aqua
+    color:aqua;
 
 }
 .MusicMaster{
     color:orange
+}
+.table,
+th
+{
+    color:rgb(67, 196, 16);
+    border: solid slategray;
+    border-collapse: collapse;
+    text-align: center;
+    margin: 500px ;
+    padding: 5px;
+    background-color:blanchedalmond;
+}
+td{
+    color:red;
+    border: 200px black;
+    text-align: center;
+    margin: 50px;
+    padding: 5px;
+    background-color:aquamarine;
 }
