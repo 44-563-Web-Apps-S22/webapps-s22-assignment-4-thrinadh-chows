@@ -67,7 +67,7 @@ ul.navbar-horizontal {
 }
 ul.navbar-horizontal li {
     float: centre; 
-    background-color:rgb(220, 245, 255);
+    background-color:rgb(21, 178, 240);
 }
 ul.navbar-horizontal a {
     text-align: center;
@@ -77,7 +77,7 @@ ul.navbar-horizontal a {
     margin: 15px;
 }
 ul.navbar-horizontal a:hover {  
-    background-color:azure;
+    background-color:rgb(52, 102, 177);
     color:white;
 }
 .navigation{
