@@ -22,10 +22,22 @@
     color:black;
 }
 .name:hover{
-    color:hsl(180, 100%, 97%);
+    color:hsl(180, 100, 97);
     text-shadow: 10px orangered;
-    text-shadow:3px 4px 5px hsl(180, 100%, 97%);
-    color:antiquewhite;
+    text-shadow:3px 4px 5px hsl(180, 100, 97);
+    color:antiquewhite;        
+}
+.MonsieurJourdain{
+    color:hsl(190, 90, 97);
 
-        
+}
+.DancingMaster{
+    color:hsl(37, 98, 89);
+}
+.OnsieurJourdain{
+    color:hsl(226, 225, 230);
+
+}
+.MusicMaster{
+    color:hsl(21, 112, 83);
 }
